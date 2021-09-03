@@ -3,7 +3,7 @@
 
 Projeto foi proposto pela Digital Innovation One 
 - Link do código original: https://github.com/rpeleias/personapi_digital_innovation_one
-- Professor: Rodolfo Gomes
+- Professor: Rodrigo Peleias
 - Aula: https://web.digitalinnovation.one/lab/desenvolvendo-um-sistema-de-gerenciamento-de-pessoas-em-api-rest-com-spring-boot/learning/729275b4-9f50-4fd5-b9ec-809cc809e761
 
 # Descrição
